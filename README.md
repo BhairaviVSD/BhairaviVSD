@@ -1,3 +1,5 @@
+![logo](https://github.com/BhairaviVSD/BhairaviVSD/blob/main/NYU.jpeg)
+
 <h1 align="center">Hi 👋, I'm Bhairavi Sawantdesai</h1>
 <h3 align="center">Exploring the Digital Frontier: Code Composer, Java Devotee, and Puzzle Aficionado</h3>
 
