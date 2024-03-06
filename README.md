@@ -9,8 +9,6 @@
   
 - 👨‍💻 All of my projects are available at [https://bhairavivsd.github.io/](https://bhairavivsd.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@bvs9764](https://medium.com/@bvs9764)
-
 - 📫 How to reach me **bvs9764@nyu.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12donCEpXFkmc_8wMwkDvcMceJNh9A2Qo/view?usp=sharing)
