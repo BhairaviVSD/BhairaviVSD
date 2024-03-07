@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bvs9764@nyu.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12donCEpXFkmc_8wMwkDvcMceJNh9A2Qo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12XBSQ9boIrA86PLW2AK1DyMlAQWhFcZL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
