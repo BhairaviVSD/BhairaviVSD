@@ -7,8 +7,6 @@
 
 - 🌱 I am presently studying **Computer Engineering at NYU.**
   
-- 👨‍💻 All of my projects are available at [https://bhairavivsd.github.io/](https://bhairavivsd.github.io/)
-
 - 📫 How to reach me **bvs9764@nyu.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w1yA_FhIL_UD7JYvQPuwuvIZ3fpLrpKa/view?usp=sharing)
