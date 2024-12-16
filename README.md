@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bhairavi Sawantdesai</h1>
 <h3 align="center">Exploring the Digital Frontier: Code Composer, Java Devotee, and Puzzle Aficionado</h3>
 
-<img align = "right" width = "400" src="https://camo.githubusercontent.com/4a686e6ca34f1a556bf886c23d95986d0b8bc1e9b9472b149b32a1aa77e20673/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6c6f747469652d3030305f315f312e676966" alt="bhairavivsd" /> </p>
+
 
 - 🌱 I am presently studying **Computer Engineering at NYU.**
   
