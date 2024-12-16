@@ -7,7 +7,7 @@
 
 - 🌱 I am presently studying **Computer Engineering at NYU.**
   
-- 📫 How to reach me **bvs9764@nyu.edu**
+- 📫 How to reach me **bvs9764@stern.nyu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
